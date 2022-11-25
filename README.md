@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robelshanbel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning internet of things 
-- 💞️ I’m looking to collaborate on you
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me fklm.web1@gmail.com
 
 <!---
